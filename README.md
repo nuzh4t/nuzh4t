@@ -1,6 +1,6 @@
  Hi, I’m Nuzhat/Rodoshi
- I’m interested in Math,Programming,Web Development and Olympiads.
- I’m currently learning Ethical Hacking,Competitive Programming and Web Development.
+ I’m interested in Math,Programming,Machine Learning and Olympiads.
+ I’m currently learning C++ and Python.
  Pronouns: She/Her
  Fun fact: My birthday is on the 07.07
 <!---
