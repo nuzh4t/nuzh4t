@@ -1,4 +1,4 @@
- Hi, I’m Nuzhat/Rodoshi
+ Hi, I’m Nuzhat
  I’m interested in Math,Programming,Machine Learning and Olympiads.
  I’m currently learning C++ and Python.
  Pronouns: She/Her
